@@ -10,8 +10,8 @@
     --accent-glow: rgba(0, 255, 255, 0.3);
     --border-color: #2a2a2a;
     
-    --font-tamil-display: 'Mukta Malar', sans-serif;
-    --font-tamil-body: 'Hind Madurai', sans-serif;
+    --font-tamil-display: 'Catamaran', sans-serif;
+    --font-tamil-body: 'Pavanam', sans-serif;
     
     --transition-fast: 0.2s ease;
     --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
